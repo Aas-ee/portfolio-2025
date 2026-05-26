@@ -14,7 +14,7 @@ export default defineConfig({
   server: {
     port: 3000,
     strictPort: true,
-    host: true,
+    host: "0.0.0.0",
   },
   resolve: {
     extensions: [".js", ".jsx", ".ts", ".tsx", ".json", ".ogg", ".wav", ".glsl", ".ktx2"],

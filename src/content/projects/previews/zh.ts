@@ -10,24 +10,24 @@ export default [
     title: "Open-WebSearch",
     slug: "open-websearch",
     thumbnail: thumbnailOpenWebSearch,
-    description: "Web search and page fetching for Agents and MCP",
+    description: "面向 Agent / MCP 场景的 Web 搜索与网页抓取工具",
   },
   {
     title: "Musio",
     slug: "musio",
     thumbnail: thumbnailMusio,
-    description: "Local-first autonomous music agent",
+    description: "本地优先的自主型音乐 Agent",
   },
   {
     title: "Resume-Skills",
     slug: "resume-skills",
     thumbnail: thumbnailResumeSkills,
-    description: "Resume-generation runtime for agent hosts",
+    description: "面向多 Agent Host 的简历生成 Runtime",
   },
   {
     title: "ProcessOn SVG2PNG",
     slug: "processon-svg2png",
     thumbnail: thumbnailProcessOnSvg2Png,
-    description: "Browser helper for exporting ProcessOn SVGs",
+    description: "辅助 ProcessOn SVG 转 PNG 的浏览器脚本",
   },
 ] as const satisfies ProjectPreview[];

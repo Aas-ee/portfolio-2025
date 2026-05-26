@@ -1,0 +1,23 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" fill="#101820"/>
+  <path d="M0 520H1280V720H0V520Z" fill="#F5EFE6"/>
+  <path d="M128 120H512V600H128V120Z" fill="#F8FBFF"/>
+  <path d="M176 184H408" stroke="#1B2638" stroke-width="18" stroke-linecap="round"/>
+  <path d="M176 252H456" stroke="#8CA0B3" stroke-width="12" stroke-linecap="round"/>
+  <path d="M176 306H424" stroke="#8CA0B3" stroke-width="12" stroke-linecap="round"/>
+  <path d="M176 360H468" stroke="#8CA0B3" stroke-width="12" stroke-linecap="round"/>
+  <path d="M176 438H360" stroke="#FF923E" stroke-width="16" stroke-linecap="round"/>
+  <path d="M600 168H1072V272H600V168Z" fill="#1B2D44"/>
+  <path d="M640 220H840" stroke="#34BFFF" stroke-width="14" stroke-linecap="round"/>
+  <path d="M600 328H1072V432H600V328Z" fill="#1B2D44"/>
+  <path d="M640 380H948" stroke="#34BFFF" stroke-width="14" stroke-linecap="round"/>
+  <path d="M600 488H1072V592H600V488Z" fill="#1B2D44"/>
+  <path d="M640 540H910" stroke="#34BFFF" stroke-width="14" stroke-linecap="round"/>
+  <path d="M512 360H600" stroke="#FF923E" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="512" cy="360" r="14" fill="#FF923E"/>
+  <circle cx="600" cy="220" r="10" fill="#34BFFF"/>
+  <circle cx="600" cy="380" r="10" fill="#34BFFF"/>
+  <circle cx="600" cy="540" r="10" fill="#34BFFF"/>
+  <text x="128" y="84" fill="#F5EFE6" font-family="Arial, sans-serif" font-size="42" font-weight="700">Resume-Skills</text>
+  <text x="600" y="126" fill="#B8C6D8" font-family="Arial, sans-serif" font-size="28">JSON CLI · Schema · Skill Runtime</text>
+</svg>
