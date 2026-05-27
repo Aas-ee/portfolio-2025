@@ -1,6 +1,6 @@
 # Aasee Portfolio
 
-Personal portfolio site for Aasee: AI Agent, MCP, backend engineering, and open-source project case studies with bilingual copy (Chinese and English).
+Personal portfolio site for Aasee: AI Agent, MCP, Java / Python / Go backend engineering, and open-source project case studies with bilingual copy (Chinese and English).
 
 Built with **Vue 3**, **TypeScript**, and **Vite**. Motion via **GSAP** and **Lenis**, 3D via **three.js**, audio via **Howler**. GLSL is compiled through **vite-plugin-glsl**.
 

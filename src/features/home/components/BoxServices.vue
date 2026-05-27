@@ -110,7 +110,7 @@ const SERVICES_EN = [
   { name: "LLM System Integration" },
   { name: "MCP Tools & Servers" },
   { name: "Agent Runtime" },
-  { name: "Java Backend Systems" },
+  { name: "Java / Python / Go Backend Systems" },
   { name: "Web3 Protocol Practice" },
 ] as const satisfies { name: string }[];
 
@@ -118,7 +118,7 @@ const SERVICES_ZH = [
   { name: "LLM 业务系统集成" },
   { name: "MCP 工具与服务" },
   { name: "Agent Runtime" },
-  { name: "Java 后端系统" },
+  { name: "Java / Python / Go 后端系统" },
   { name: "Web3 协议实践" },
 ] as const satisfies { name: string }[];
 
